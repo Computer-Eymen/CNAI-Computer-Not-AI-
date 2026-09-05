@@ -1,5 +1,6 @@
 # CNAI(Computer Not AI)
-> **"You can't become an engineer by using ready-made code. A true engineer is one who writes their own code."**
+> **"You can't become an engineer by using ready-made code. A true engineer is one who writes their own code.
+> -Computer-Eymen"**
 
 CNAI (Computer Not AI) aims to revive the discipline of programmers, which has weakened with the growth of artificial intelligence and the development of code.
 
